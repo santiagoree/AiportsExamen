@@ -27,6 +27,7 @@ public class AircraftsController : ControllerBase
         _context.Add(entity);
         await _context.SaveChangesAsync();
 
+       // No devolvemos la entity como viene... usamos DTOs
         return StatusCode(StatusCodes.Status201Created, entity);
     }
 }

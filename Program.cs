@@ -1,6 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using AirportsApiService.Infrastructure.Data.Entities;
 
+
+// Falta configurar las JsonOptions para que los enums se vean como tal, acepten texto
+// Falta configurar las URLs para que se vean en minusculas
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
