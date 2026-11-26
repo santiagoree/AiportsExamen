@@ -1,0 +1,11 @@
+@Aiports_HostAddress = http://localhost:5247
+
+GET {{Aiports_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Aiports_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
