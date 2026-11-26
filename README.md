@@ -1,12 +1,9 @@
-
 Nivel 1
--POST /api/v1/aircrafts
+POST /api/v1/aircrafts
 Nivel 2 
--GET /api/v1/airlines/{id}/countries
--POST /api/v1/airlines/{id}/countries
--PUT /api/v1/airports/{id}
+GET /api/v1/airlines/{id}/countries
+POST /api/v1/airlines/{id}/countries
+PUT /api/v1/airports/{id}
 Nivel 3
--GET /api/v1/countries/{id}
--POST /api/v1/countries
+GET /api/v1/countries/{id}
 POST /api/v1/countries
-
