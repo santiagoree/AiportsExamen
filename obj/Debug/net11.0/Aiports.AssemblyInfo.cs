@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aiports")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+744a079434cb0c996b4598de804eb2fdedc2b460")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aiports")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aiports")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
